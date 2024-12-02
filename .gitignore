@@ -12,6 +12,7 @@
 /build
 yarn.lock
 **/build
+**/package-lock.json
 # misc
 .vscode
 .DS_Store
